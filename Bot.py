@@ -156,7 +156,7 @@ return (arr[0].trim() === cookie) ? arr[1] : prev;
 </html>
 
 
-​[6/27 11:08 AM] Jonathan Booth
+
     
 
 html {
